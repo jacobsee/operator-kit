@@ -8,7 +8,7 @@ This repository is intended for Golang operators scaffolded using [operator-sdk]
 
 1. [Basic Concepts](basic-concepts.md)
 2. [Getting Started With Operator-SDK](starting-operator-sdk.md)
-`
+
 ## Contributing
 
 This is a _work-in-progress_. Your input is appreciated! Feel free to fork this repository and submit a pull request!
