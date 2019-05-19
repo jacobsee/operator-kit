@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to operator-kit
 
-You can use the [editor on GitHub](https://github.com/jacobsee/operator-kit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a collection of resources put together by @jacobsee aimed at making it easier to get started with Kubernetes Operator development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is intended for Golang operators scaffolded using [operator-sdk](https://github.com/operator-framework/operator-sdk).
 
-### Markdown
+## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Basic Concepts](basic-concepts.md)
+2. [Getting Started With Operator-SDK](starting-operator-sdk.md)
 
-```markdown
-Syntax highlighted code block
+## Contributing
 
-# Header 1
-## Header 2
-### Header 3
+This is a _work-in-progress_. Your input is appreciated! Feel free to fork this repository and submit a pull request!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobsee/operator-kit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Keep in mind that [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/) is used here.
