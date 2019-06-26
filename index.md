@@ -8,6 +8,8 @@ This repository is intended for Golang operators scaffolded using [operator-sdk]
 
 1. [Basic Concepts](basic-concepts.md)
 2. [Getting Started With Operator-SDK](starting-operator-sdk.md)
+3. [Trying It Out](trying-it-out.md)
+4. [Operator Pipelines](operator-pipelines.md)
 
 ## Contributing
 
